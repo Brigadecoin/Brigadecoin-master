@@ -1,0 +1,2 @@
+debian/bin/Brigadecoind usr/bin
+src/Brigadecoind usr/lib/Brigadecoin

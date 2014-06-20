@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Brigadecoin
+Comment=Brigadecoin P2P Cryptocurrency
+Comment[fr]=Brigadecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Brigadecoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Brigadecoin, una criptomoneda P2P
+Exec=/usr/bin/Brigadecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Brigadecoin;
+Categories=Office;
